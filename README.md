@@ -1,4 +1,5 @@
-![Project Banner](capture_image.png)
+# Behavioural-segmentation
+
 
 ## 📌 Objective
 
